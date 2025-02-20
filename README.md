@@ -1,7 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+
+[![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingren8847&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**lingren8847/lingren8847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LingRen/LingRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
